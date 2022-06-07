@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "start": "max dev",
+    "postinstall": "max setup"
+  },
+  "dependencies": {
+    "@umijs/max": "^4.0.0-rc.21"
+  },
+  "devDependencies": {
+  }
+}
