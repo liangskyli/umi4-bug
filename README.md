@@ -5,9 +5,9 @@ $ yarn
 $ yarn start
 ```
 
-打开页面：http://127.0.0.1:8000/sub-demo/page1
+打开接口页面：http://127.0.0.1:8000/api.php
 
-点击按钮next page 跳转下一个页面出错
+mock加文件，或改文件内容，刷新无效。
 
 
 
