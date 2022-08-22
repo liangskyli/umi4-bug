@@ -1,4 +1,4 @@
-import { history } from "@umijs/max";
+import { history } from "umi";
 
 export default function Page1() {
 const nextPage = () => {

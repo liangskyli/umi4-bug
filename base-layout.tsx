@@ -1,4 +1,4 @@
-import { Outlet,useLocation } from '@umijs/max';
+import { useLocation } from 'umi';
 
 const BasicLayout = (props: any) => {
   const { pathname } = useLocation();
@@ -6,7 +6,7 @@ const BasicLayout = (props: any) => {
 
   return (
     <div>
-      <Outlet />
+      {props.children}
     </div>
   );
 };

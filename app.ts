@@ -22,7 +22,7 @@ loadJS('//cdn.bootcdn.net/ajax/libs/eruda/2.4.1/eruda.min.js', () => {
   }
 });
 
-export const qiankun = {
+/*export const qiankun = {
   // 应用加载之前
   async bootstrap(props: any) {
     console.log('bootstrap', props);
@@ -35,4 +35,4 @@ export const qiankun = {
   async unmount(props: any) {
     console.log('unmount', props);
   },
-};
+};*/

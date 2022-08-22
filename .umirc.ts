@@ -4,14 +4,10 @@ const routerBase = `/sub-demo/`;
 const publicPath = routerBase;
 
 export default defineConfig({
-    fastRefresh: true,
-    model: {},
-    initialState: {},
+    fastRefresh: {},
     dva: {
-        immer: {
-            enableES5: true,
-            enableAllPlugins: true,
-        },
+        immer: true,
+        hmr: true,
     },
     routes: [
         {
@@ -26,9 +22,9 @@ export default defineConfig({
     ],
     base: routerBase,
     publicPath: publicPath,
-    qiankun: {
+    /*qiankun: {
         slave: {},
-    },
+    },*/
     mock: {
         // umi3要排除，这不是mock入口，umi4排除了，改这里的文件，不热更新，umi3没问题
         // umi4注释后，mock/custom-data/template-data.ts 文件更改，需要改2次，才有第一次更改的数据，延迟了一次

@@ -1,12 +1,13 @@
 {
   "name": "demo",
   "scripts": {
-    "start": "max dev",
-    "postinstall": "max setup"
+    "start": "umi dev",
+    "postinstall": "umi generate tmp"
   },
   "dependencies": {
-    "@umijs/max": "^4.0.10",
-    "lodash": "^4.17.21"
+    "@umijs/preset-react": "^2.1.4",
+    "lodash": "^4.17.21",
+    "umi": "^3.5.32"
   },
   "devDependencies": {
     "@types/lodash": "^4.14.182"
