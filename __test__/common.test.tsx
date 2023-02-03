@@ -6,8 +6,8 @@ import {
 let pushURl = '';
 let replaceURl = '';
 
-jest.mock('umi', () => {
-  const originalModule = jest.requireActual('umi');
+jest.mock('@umijs/max', () => {
+  const originalModule = jest.requireActual('@umijs/max');
   return {
     ...originalModule,
     history: {

@@ -1,5 +1,5 @@
 
-import { history } from 'umi';
+import { history } from '@umijs/max';
 
 const goToPage = (
   path: string,
