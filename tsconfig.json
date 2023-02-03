@@ -1,0 +1,22 @@
+{
+  "compilerOptions": {
+    "outDir": "build/dist",
+    "target": "esnext",
+    "module": "esnext",
+    "moduleResolution": "node",
+    "importHelpers": true,
+    "noImplicitAny": false,
+    "jsx": "react-jsx",
+    "esModuleInterop": true,
+    "sourceMap": true,
+    "baseUrl": "./",
+    "strict": true,
+    "paths": {
+      "@/*": ["src/*"],
+      "@@/*": ["src/.umi/*"]
+    },
+    "resolveJsonModule": true,
+    "allowSyntheticDefaultImports": true
+  },
+  "include": ["mock/**/*", "src/**/*", "__test__/**/*", "config/**/*", ".umirc.ts", "typings.d.ts"]
+}

@@ -1,4 +1,5 @@
-.umi
+/src/.umi
+/src/.umi-test
 .idea
 
 /node_modules/
