@@ -2942,66 +2942,66 @@
     "@typescript-eslint/types" "5.48.1"
     eslint-visitor-keys "^3.3.0"
 
-"@umijs/ast@4.0.48":
-  version "4.0.48"
-  resolved "https://registry.npmmirror.com/@umijs/ast/-/ast-4.0.48.tgz#c9fcb3c645c40f5048ed842f32861bb62c315471"
-  integrity sha512-oGw9W0DIc+YxmmXSxA7cxJzOUU390JjRmtw9Nj33t+v67TQvClsgT3lKzSHG73k6o4Clmqo+YpsKGbEHsAZuHg==
+"@umijs/ast@4.0.49":
+  version "4.0.49"
+  resolved "https://registry.npmjs.org/@umijs/ast/-/ast-4.0.49.tgz#afc866b2a1d5233e798b5c84906e216d57255a07"
+  integrity sha512-g/2zcJYQxZNBvJrZENF1Pe2pY+yMm56UGkeHXfWF94GZ42WSr51QFGkq6qXCckQxX3l+iPG88IlQxkCDxyr+3A==
   dependencies:
-    "@umijs/bundler-utils" "4.0.48"
+    "@umijs/bundler-utils" "4.0.49"
 
-"@umijs/babel-preset-umi@4.0.48":
-  version "4.0.48"
-  resolved "https://registry.npmmirror.com/@umijs/babel-preset-umi/-/babel-preset-umi-4.0.48.tgz#711f8103145be8d60a1e7a0ef3e49f9e92067c52"
-  integrity sha512-Nd8iA0cGnuNSvkqMy3HR2Gr58N0+b3Jm2bMj2cD7OUeAjce/ooTXlpvmrMLKT61dPQwQDeADK7WIVEtwUg51Sg==
+"@umijs/babel-preset-umi@4.0.49":
+  version "4.0.49"
+  resolved "https://registry.npmjs.org/@umijs/babel-preset-umi/-/babel-preset-umi-4.0.49.tgz#6733aed859af9e06268abcd3fbfc764e580629d1"
+  integrity sha512-f4+uyDTyC29mpVpn3NXGTnBluvwZF7X97sLHTPTmanPKRm3hsNR1yuxvy5IhEUzkEvW1eQ2D6WOQm7xxH5IJ9w==
   dependencies:
     "@babel/runtime" "7.20.7"
     "@bloomberg/record-tuple-polyfill" "0.0.4"
-    "@umijs/bundler-utils" "4.0.48"
-    "@umijs/utils" "4.0.48"
+    "@umijs/bundler-utils" "4.0.49"
+    "@umijs/utils" "4.0.49"
     babel-plugin-styled-components "2.0.7"
     core-js "3.27.1"
 
-"@umijs/bundler-esbuild@4.0.48":
-  version "4.0.48"
-  resolved "https://registry.npmmirror.com/@umijs/bundler-esbuild/-/bundler-esbuild-4.0.48.tgz#f565ac6d855e4cd6ef0d2a5dc519a5882f13d5c9"
-  integrity sha512-Xvab1xlZZYDH/xhCZzc50FR8rxjA2FvYjtJ6VH303nusQlWIwFbaZP6HVQNiWgEo80JXIEW9ID/mUoicpTPqfg==
+"@umijs/bundler-esbuild@4.0.49":
+  version "4.0.49"
+  resolved "https://registry.npmjs.org/@umijs/bundler-esbuild/-/bundler-esbuild-4.0.49.tgz#6c8fb3d92da850ef0e2ca6c585c35044b4d2adaf"
+  integrity sha512-DY73f7kN5duH6kumkXwcB34NdCXOgJne84287iMDi7Xp/PGh8LHef834SPU/01ivDTk92R5ae91Ge9QaehjyPw==
   dependencies:
-    "@umijs/bundler-utils" "4.0.48"
-    "@umijs/utils" "4.0.48"
+    "@umijs/bundler-utils" "4.0.49"
+    "@umijs/utils" "4.0.49"
     enhanced-resolve "5.9.3"
     postcss "^8.4.21"
     postcss-flexbugs-fixes "5.0.2"
     postcss-preset-env "7.5.0"
 
-"@umijs/bundler-utils@4.0.48":
-  version "4.0.48"
-  resolved "https://registry.npmmirror.com/@umijs/bundler-utils/-/bundler-utils-4.0.48.tgz#c4b77c5848348dd8fcd1b8bf57ba5b32584ca11a"
-  integrity sha512-rXIOGiAb28W/pOQ5QtAPtX/qwxuLD5SickLbu1hvOYOGjrFLNl9lEeIHxipTad/n35z9k6LRBBiDblR3e3xgPQ==
+"@umijs/bundler-utils@4.0.49":
+  version "4.0.49"
+  resolved "https://registry.npmjs.org/@umijs/bundler-utils/-/bundler-utils-4.0.49.tgz#e34588a32030001624d908bd124934a783060bdc"
+  integrity sha512-F8846Dd00plzqBcIlCmwKUCeFKNdROTcN7oOUn52GC5UURfqOsmUO+77uRZmstsCmyBnasx/mk7M8JFzb/RJxw==
   dependencies:
-    "@umijs/utils" "4.0.48"
+    "@umijs/utils" "4.0.49"
     esbuild "0.16.17"
     regenerate "^1.4.2"
     regenerate-unicode-properties "10.0.1"
     spdy "^4.0.2"
 
-"@umijs/bundler-vite@4.0.48":
-  version "4.0.48"
-  resolved "https://registry.npmmirror.com/@umijs/bundler-vite/-/bundler-vite-4.0.48.tgz#73aa6c0523affb634d9e9437a698d3d28bc98695"
-  integrity sha512-EqGk5vme0dzdQxUzZ8vo90wSjX9n+67WBWLK+EGDvvVB/LZG6PjCz/sUMBk+wg0j6RljZ0MgcOIjMktRAPIQZg==
+"@umijs/bundler-vite@4.0.49":
+  version "4.0.49"
+  resolved "https://registry.npmjs.org/@umijs/bundler-vite/-/bundler-vite-4.0.49.tgz#909664e97d3bc2758820483aabc6b7e3149c8620"
+  integrity sha512-K4o/SrXcr5TVfz8JgPeagvNVA45y+DQHPpp9FywOSDcD/rzQvJb6lTYMTTOj9AqEhQQ4nNycjtMyYQ8irqPcPg==
   dependencies:
     "@svgr/core" "6.2.1"
-    "@umijs/bundler-utils" "4.0.48"
-    "@umijs/utils" "4.0.48"
+    "@umijs/bundler-utils" "4.0.49"
+    "@umijs/utils" "4.0.49"
     "@vitejs/plugin-react" "2.2.0"
     less "4.1.3"
     postcss-preset-env "7.5.0"
     rollup-plugin-visualizer "5.9.0"
     vite "3.2.5"
 
-"@umijs/bundler-webpack@4.0.48":
-  version "4.0.48"
-  resolved "https://registry.npmmirror.com/@umijs/bundler-webpack/-/bundler-webpack-4.0.48.tgz#c29296f157d9c60dafdea44492b4fe35c05040ec"
-  integrity sha512-nmcZWINMbbHitKgSG5juY2Hb4m/Z84ov8N49FO2Lj95np2UunXCgGT2ackBIHRe7h8gxJ7BwGhLx3U3HaPL7tg==
+"@umijs/bundler-webpack@4.0.49":
+  version "4.0.49"
+  resolved "https://registry.npmjs.org/@umijs/bundler-webpack/-/bundler-webpack-4.0.49.tgz#6ce68623c4bef3080c9b8828b0860d388b3e0103"
+  integrity sha512-lUNnnGmaJJ7kRWhC70y/itNNU1noIprQ+L5P52dFIacG8eHKoF+r+XEQeMDXQN8Bow3eXJ56+0wt+7uOnkf7Iw==
   dependencies:
     "@parcel/css" "1.9.0"
     "@pmmmwh/react-refresh-webpack-plugin" "0.5.7"
@@ -3009,11 +3009,11 @@
     "@svgr/plugin-jsx" "^6.2.1"
     "@svgr/plugin-svgo" "^6.2.0"
     "@types/hapi__joi" "17.1.9"
-    "@umijs/babel-preset-umi" "4.0.48"
-    "@umijs/bundler-utils" "4.0.48"
+    "@umijs/babel-preset-umi" "4.0.49"
+    "@umijs/bundler-utils" "4.0.49"
     "@umijs/case-sensitive-paths-webpack-plugin" "^1.0.1"
-    "@umijs/mfsu" "4.0.48"
-    "@umijs/utils" "4.0.48"
+    "@umijs/mfsu" "4.0.49"
+    "@umijs/utils" "4.0.49"
     cors "^2.8.5"
     css-loader "6.7.1"
     es5-imcompatible-versions "^0.1.73"
@@ -3030,13 +3030,13 @@
   resolved "https://registry-npm.myscrm.cn/repository/pkg/@umijs/case-sensitive-paths-webpack-plugin/-/case-sensitive-paths-webpack-plugin-1.0.1.tgz#02655299f52912289f2df28fbeaea636e748c1df"
   integrity sha512-kDKJ8yTarxwxGJDInG33hOpaQRZ//XpNuuznQ/1Mscypw6kappzFmrBr2dOYave++K7JHouoANF354UpbEQw0Q==
 
-"@umijs/core@4.0.48":
-  version "4.0.48"
-  resolved "https://registry.npmmirror.com/@umijs/core/-/core-4.0.48.tgz#04738e538e6e19d727eb6c506a6a5927094777a3"
-  integrity sha512-tJO2PTEUKGW5d93t48hhBfF2F85d3KXYQD1qi//rBdzXMSsox4XR3ufZbeU5ddSP1KkcDgnfpoL6pZ1LOU5wUw==
+"@umijs/core@4.0.49":
+  version "4.0.49"
+  resolved "https://registry.npmjs.org/@umijs/core/-/core-4.0.49.tgz#2ec7ea75844c336b6eb2f6b951c91fbda22555b5"
+  integrity sha512-6B7mJ9VaOBn77H2D0TXmeoGFK8JkMea2A4KUC74DXntPteXT+etH1Yoz/xvunrs1+vNSpDqXUuCCjJPW43/7hg==
   dependencies:
-    "@umijs/bundler-utils" "4.0.48"
-    "@umijs/utils" "4.0.48"
+    "@umijs/bundler-utils" "4.0.49"
+    "@umijs/utils" "4.0.49"
 
 "@umijs/did-you-know@^1.0.0":
   version "1.0.2"
@@ -3051,17 +3051,17 @@
     "@babel/runtime" "^7.7.6"
     query-string "^6.13.6"
 
-"@umijs/lint@4.0.48":
-  version "4.0.48"
-  resolved "https://registry.npmmirror.com/@umijs/lint/-/lint-4.0.48.tgz#9fc637cdbbbd7cd99853694f96db5ffb342f2557"
-  integrity sha512-QsKznMN1ZeBBMd9tvSTY0uSy3CcLZBZjMhM+Z6QzCZaj9W//LmejSXsm9IXsmdvIJ0yubw/RfcCWRZsasDl8Kw==
+"@umijs/lint@4.0.49":
+  version "4.0.49"
+  resolved "https://registry.npmjs.org/@umijs/lint/-/lint-4.0.49.tgz#0efed16c97e21859953e9595cca64d3e41b8c3b7"
+  integrity sha512-VvX9TQqPT3Tt0fM1bRp0Fc7jWKByqiguqh2zP+5DyQl/PDcld1EMu3+CgXH4AUw5a/AtNXVoiWrCBV5Puy5Lxg==
   dependencies:
     "@babel/core" "7.20.12"
     "@babel/eslint-parser" "7.19.1"
     "@stylelint/postcss-css-in-js" "^0.38.0"
     "@typescript-eslint/eslint-plugin" "5.48.1"
     "@typescript-eslint/parser" "5.48.1"
-    "@umijs/babel-preset-umi" "4.0.48"
+    "@umijs/babel-preset-umi" "4.0.49"
     eslint-plugin-jest "26.1.5"
     eslint-plugin-react "7.29.4"
     eslint-plugin-react-hooks "4.5.0"
@@ -3069,40 +3069,40 @@
     postcss-syntax "0.36.2"
     stylelint-config-standard "25.0.0"
 
-"@umijs/max@4.0.48":
-  version "4.0.48"
-  resolved "https://registry.npmmirror.com/@umijs/max/-/max-4.0.48.tgz#5a9e6d4cc37533dda61d133c08c9649d81cd3ad9"
-  integrity sha512-8vRqhhvb0SW/mqCEPF2Dbe4OsybSpM0ISahas58wK0Y3MfD8U+CnI0sA6gLkEai8b8810dVwQiJZ5O4HZ3T0Jg==
+"@umijs/max@4.0.49":
+  version "4.0.49"
+  resolved "https://registry.npmjs.org/@umijs/max/-/max-4.0.49.tgz#e9ea130b3a7d141de70ce8a0dde8a7ccff5d015e"
+  integrity sha512-ZRHSBxV54G7oY4HmT93qwJSRf7Pd74wmXO+g6OPBEDXD2Rpk7D172x+l2X057FkaeOwniARR8yWS86N25GYIYw==
   dependencies:
-    "@umijs/lint" "4.0.48"
-    "@umijs/plugins" "4.0.48"
+    "@umijs/lint" "4.0.49"
+    "@umijs/plugins" "4.0.49"
     antd "^4.20.6"
     eslint "8.31.0"
     stylelint "14.8.2"
-    umi "4.0.48"
+    umi "4.0.49"
 
-"@umijs/mfsu@4.0.48":
-  version "4.0.48"
-  resolved "https://registry.npmmirror.com/@umijs/mfsu/-/mfsu-4.0.48.tgz#64f2c7354b09815065e0d757ae62732473e007f5"
-  integrity sha512-80ALK5DTsDO0DMzz7gUMi6ChWRcuEXzOIp70JGKFADehTFcB8JjtNwUrYswfqlodnGJmahPjQg+QT3GlG5pJHA==
+"@umijs/mfsu@4.0.49":
+  version "4.0.49"
+  resolved "https://registry.npmjs.org/@umijs/mfsu/-/mfsu-4.0.49.tgz#40f998395bca7f0697ad43c39cd5bd1fe71a9a33"
+  integrity sha512-108kfHFeZNb/62QKhn02Au8QA3RPVc0oGSZgHkqNuKTaNo6dvY4FiOAvZkLSaPH1awJp/f8M5/usy5EFb0qcfg==
   dependencies:
-    "@umijs/bundler-esbuild" "4.0.48"
-    "@umijs/bundler-utils" "4.0.48"
-    "@umijs/utils" "4.0.48"
+    "@umijs/bundler-esbuild" "4.0.49"
+    "@umijs/bundler-utils" "4.0.49"
+    "@umijs/utils" "4.0.49"
     enhanced-resolve "5.9.3"
     is-equal "^1.6.4"
 
-"@umijs/plugin-run@4.0.48":
-  version "4.0.48"
-  resolved "https://registry.npmmirror.com/@umijs/plugin-run/-/plugin-run-4.0.48.tgz#82ad367d061cac691c4654d4fbfafc19cd15aa01"
-  integrity sha512-1nlP3uqKxrvQoXb5tWl1KaMDBnFomJatyaAF1oU42zg2oOay/LJ8+mqCVLlgE9Y9VO5OB+Yxjahh7i4wPQUB7Q==
+"@umijs/plugin-run@4.0.49":
+  version "4.0.49"
+  resolved "https://registry.npmjs.org/@umijs/plugin-run/-/plugin-run-4.0.49.tgz#a56637ffedb89cbaee1bed9a2522b4cc95d5f78d"
+  integrity sha512-sWszYkb9SGvd2pa3UyNSD8WXW76bfh7Cl7r6VMpuWk8THV3GbhFaeVwZ/B7PWkll3gybwC7NALESzPjmBpQBrg==
   dependencies:
     tsx "^3.12.2"
 
-"@umijs/plugins@4.0.48":
-  version "4.0.48"
-  resolved "https://registry.npmmirror.com/@umijs/plugins/-/plugins-4.0.48.tgz#f8d45c8379674081eac83072f794267121e3fef2"
-  integrity sha512-VS0WP9ITzceNWBJbeAKkSzEYIcqRQ43qVo6Q+aEnR2E5+XsIalLVXuietvmFn5P3mIY2YkgWIcMBTK/kUmNjTg==
+"@umijs/plugins@4.0.49":
+  version "4.0.49"
+  resolved "https://registry.npmjs.org/@umijs/plugins/-/plugins-4.0.49.tgz#de20e3516453e3367d58865650ddd46b0b33d966"
+  integrity sha512-rqtpQzGOW2HO4e/6hVIFt6yCGi6rmjEJVQa7gLRAXHTiHit+G2BVl0PwkN3S6Sxc/tkwrQYqW2InBfIyvfINiA==
   dependencies:
     "@ahooksjs/use-request" "^2.0.0"
     "@ant-design/antd-theme-variable" "^1.0.0"
@@ -3110,7 +3110,7 @@
     "@ant-design/pro-components" "^2.0.1"
     "@tanstack/react-query" "^4.22.0"
     "@tanstack/react-query-devtools" "^4.22.0"
-    "@umijs/bundler-utils" "4.0.48"
+    "@umijs/bundler-utils" "4.0.49"
     "@umijs/valtio" "^1.0.3"
     antd-dayjs-webpack-plugin "^1.0.6"
     axios "^0.27.2"
@@ -3132,26 +3132,26 @@
     tslib "^2"
     warning "^4.0.3"
 
-"@umijs/preset-umi@4.0.48":
-  version "4.0.48"
-  resolved "https://registry.npmmirror.com/@umijs/preset-umi/-/preset-umi-4.0.48.tgz#7da5e1b351968f15898cd4b8384606af34469736"
-  integrity sha512-7hXJCpLluw9ax/t6c//IfvlR56T+tBzQ95Y5+DNbEIL0cFy33dIFtkC/09P3TZopJwnfbB5WFRb2WHVqPVWrrQ==
+"@umijs/preset-umi@4.0.49":
+  version "4.0.49"
+  resolved "https://registry.npmjs.org/@umijs/preset-umi/-/preset-umi-4.0.49.tgz#84c0275f33138f29efe1c3dd63a16f39850a2460"
+  integrity sha512-1euYYVWKeXVNeQxI9rz5OjmThJ/7yVw+8gShtPhUP47I9E5GuI4XHrkHxO5jwhAZeVRmlOtc6BH/3uk/aBGBbA==
   dependencies:
     "@iconify/utils" "2.0.9"
     "@svgr/core" "6.2.1"
-    "@umijs/ast" "4.0.48"
-    "@umijs/babel-preset-umi" "4.0.48"
-    "@umijs/bundler-utils" "4.0.48"
-    "@umijs/bundler-vite" "4.0.48"
-    "@umijs/bundler-webpack" "4.0.48"
-    "@umijs/core" "4.0.48"
+    "@umijs/ast" "4.0.49"
+    "@umijs/babel-preset-umi" "4.0.49"
+    "@umijs/bundler-utils" "4.0.49"
+    "@umijs/bundler-vite" "4.0.49"
+    "@umijs/bundler-webpack" "4.0.49"
+    "@umijs/core" "4.0.49"
     "@umijs/did-you-know" "^1.0.0"
     "@umijs/history" "5.3.1"
-    "@umijs/mfsu" "4.0.48"
-    "@umijs/plugin-run" "4.0.48"
-    "@umijs/renderer-react" "4.0.48"
-    "@umijs/server" "4.0.48"
-    "@umijs/utils" "4.0.48"
+    "@umijs/mfsu" "4.0.49"
+    "@umijs/plugin-run" "4.0.49"
+    "@umijs/renderer-react" "4.0.49"
+    "@umijs/server" "4.0.49"
+    "@umijs/utils" "4.0.49"
     babel-plugin-dynamic-import-node "2.3.3"
     click-to-react-component "^1.0.8"
     core-js "3.27.1"
@@ -3168,10 +3168,10 @@
     react-router-dom "6.3.0"
     regenerator-runtime "0.13.11"
 
-"@umijs/renderer-react@4.0.48":
-  version "4.0.48"
-  resolved "https://registry.npmmirror.com/@umijs/renderer-react/-/renderer-react-4.0.48.tgz#3751b8012ccaecf47cc3d70c43f33be1174df5af"
-  integrity sha512-i2XfxtaP7sQtZH6crdv1X+LUgJMfsoA0BMjd654l8kODjs2fj1+O8ZStqdFdyqZxaDbwHT09kpN9SG1LBzytcw==
+"@umijs/renderer-react@4.0.49":
+  version "4.0.49"
+  resolved "https://registry.npmjs.org/@umijs/renderer-react/-/renderer-react-4.0.49.tgz#739c5db43ef949348e842e84fe00c1686a98363b"
+  integrity sha512-vNkvMKMN7cCj2Xap0y96mA82yc3CErovZIL93nPutgVVcAx2kNiKamY7Zlk5ER+tmA6MVqjA5jJrHEvktnpX7A==
   dependencies:
     "@babel/runtime" "7.20.7"
     "@loadable/component" "5.15.2"
@@ -3184,25 +3184,25 @@
   resolved "https://registry-npm.myscrm.cn/repository/pkg/@umijs/route-utils/-/route-utils-4.0.1.tgz#156df5b3f2328059722d3ee7dd8f65e18c3cde8b"
   integrity sha512-+1ixf1BTOLuH+ORb4x8vYMPeIt38n9q0fJDwhv9nSxrV46mxbLF0nmELIo9CKQB2gHfuC4+hww6xejJ6VYnBHQ==
 
-"@umijs/server@4.0.48":
-  version "4.0.48"
-  resolved "https://registry.npmmirror.com/@umijs/server/-/server-4.0.48.tgz#ee0fff236e7c2a6099fbb5398db0534c26db008e"
-  integrity sha512-kG42QWxnnC0yHOsHuil3afYbmoWP2xVg1GtEB40B1s4rZQMVB5cNlaP2QiJoOctZ26eBuWXg4vzsdpodgOpWPw==
+"@umijs/server@4.0.49":
+  version "4.0.49"
+  resolved "https://registry.npmjs.org/@umijs/server/-/server-4.0.49.tgz#41bdeab200c19972e7898a3732ffa1e319360e8d"
+  integrity sha512-q2YKJHi7aZ9dMiztFAn29r+JXnOjj25z7OkRE18s+0o8pGv1xh41Lx+2LUxGUhJ5zHqfoHNATuASa+5i/B9YfA==
   dependencies:
-    "@umijs/bundler-utils" "4.0.48"
+    "@umijs/bundler-utils" "4.0.49"
     history "5.3.0"
     react "18.1.0"
     react-dom "18.1.0"
     react-router-dom "6.3.0"
 
-"@umijs/test@4.0.48":
-  version "4.0.48"
-  resolved "https://registry.npmmirror.com/@umijs/test/-/test-4.0.48.tgz#9a94b61d91c64c9257b7e5bb9bb543cfd4b59c09"
-  integrity sha512-tZl0wO8waCMN5Yu6SIQsGbBkgfYOIZoK661oziq+2zCJVtXMkt73mn+SAXVn2iRr8bj7Y7lrOTg2i/fQqqLsOw==
+"@umijs/test@4.0.49":
+  version "4.0.49"
+  resolved "https://registry.npmjs.org/@umijs/test/-/test-4.0.49.tgz#b74c8861121aa272927779b1c27f5b9e7b9513bd"
+  integrity sha512-J9CjXPRQnCa9aZ8htecb0jQqs8UvLIb4lkqATqC4HHVrM7O1o6dLQoigaVgs3lVBKEY+ImepiwnxJO7L1v/HIQ==
   dependencies:
     "@babel/plugin-transform-modules-commonjs" "7.20.11"
     "@jest/types" "27.5.1"
-    "@umijs/bundler-utils" "4.0.48"
+    "@umijs/bundler-utils" "4.0.49"
     babel-jest "^29.3.1"
     esbuild "0.16.17"
     identity-obj-proxy "3.0.0"
@@ -3213,10 +3213,10 @@
   resolved "https://registry.npmmirror.com/@umijs/use-params/-/use-params-1.0.9.tgz#0ae4a87f4922d8e8e3fb4495b0f8f4de9ca38c52"
   integrity sha512-QlN0RJSBVQBwLRNxbxjQ5qzqYIGn+K7USppMoIOVlf7fxXHsnQZ2bEsa6Pm74bt6DVQxpUE8HqvdStn6Y9FV1w==
 
-"@umijs/utils@4.0.48":
-  version "4.0.48"
-  resolved "https://registry.npmmirror.com/@umijs/utils/-/utils-4.0.48.tgz#75061afbad931a3a5b3d2af213314e55485fff91"
-  integrity sha512-amdKoGquAMQ+u3xIEizV5ApG7U3ElwuPWVScVT/Dc6sNh2COXZI5stizVa9eoA2lJ7DLD2i+WB4k/riG02qrMw==
+"@umijs/utils@4.0.49":
+  version "4.0.49"
+  resolved "https://registry.npmjs.org/@umijs/utils/-/utils-4.0.49.tgz#486f2253f9e38671cbbd56b3cc72b7b3ae04cb7f"
+  integrity sha512-QNUEN4Sk9qZD7RPPJ7MtHOhztng2Btg2kwRdd70dfYYMguNuvKVDGVVG4U70gDfmSpAguhIhLZN/8p6oKOxgbg==
   dependencies:
     chokidar "3.5.3"
     pino "7.11.0"
@@ -9967,21 +9967,21 @@ typescript@^4.9.5:
   resolved "https://registry-npm.myscrm.cn/repository/pkg/typescript/-/typescript-4.9.5.tgz#095979f9bcc0d09da324d58d03ce8f8374cbe65a"
   integrity sha512-1FXk9E2Hm+QzZQ7z+McJiHL4NW1F2EzMu9Nq9i3zAaGqibafqYwCVU6WyWAuyQRRzOlxou8xZSyXLEN8oKj24g==
 
-umi@4.0.48:
-  version "4.0.48"
-  resolved "https://registry.npmmirror.com/umi/-/umi-4.0.48.tgz#a7814c741be2a4d04c2225f0b7c75d99d6c7f273"
-  integrity sha512-SdAb0V3G21qvPY/FuK8jdtQpSxRc2jVStT0vQTW3B1wMn7HxE8cbH8Rd0LFBuHpyf+TmMvonZYPykc7wAchUzA==
+umi@4.0.49:
+  version "4.0.49"
+  resolved "https://registry.npmjs.org/umi/-/umi-4.0.49.tgz#e7253fd1b3a816c4d68ae9c44bd52262a15ddd8c"
+  integrity sha512-MqzT1JgJGN+Sn5gQRvnvQci4WxcKzyadzlMnVNBE+QKBNIIUzmgtEtueO+P3cJK/rGUIA97ea80v0critay6gg==
   dependencies:
     "@babel/runtime" "7.20.7"
-    "@umijs/bundler-utils" "4.0.48"
-    "@umijs/bundler-webpack" "4.0.48"
-    "@umijs/core" "4.0.48"
-    "@umijs/lint" "4.0.48"
-    "@umijs/preset-umi" "4.0.48"
-    "@umijs/renderer-react" "4.0.48"
-    "@umijs/server" "4.0.48"
-    "@umijs/test" "4.0.48"
-    "@umijs/utils" "4.0.48"
+    "@umijs/bundler-utils" "4.0.49"
+    "@umijs/bundler-webpack" "4.0.49"
+    "@umijs/core" "4.0.49"
+    "@umijs/lint" "4.0.49"
+    "@umijs/preset-umi" "4.0.49"
+    "@umijs/renderer-react" "4.0.49"
+    "@umijs/server" "4.0.49"
+    "@umijs/test" "4.0.49"
+    "@umijs/utils" "4.0.49"
     prettier-plugin-organize-imports "^3.2.1"
     prettier-plugin-packagejson "2.3.0"
 
