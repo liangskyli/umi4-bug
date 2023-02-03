@@ -6,7 +6,7 @@
     "test": "jest"
   },
   "dependencies": {
-    "@umijs/max": "4.0.43",
+    "@umijs/max": "4.0.48",
     "antd-mobile": "^5.28.0"
   },
   "devDependencies": {
